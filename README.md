@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on completing my Software Engineering degree
+- 🌱 I’m currently learning Java & Python
+- 😄 Pronouns: She/Her
+
+- 📫 Check out my [LinkedIn](www.linkedin.com/in/chloé-greenstreet)
 
 <!--
 **Choggsy20/Choggsy20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
