@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hey! Thanks for checking out my page 😄
 - 🔭 I’m currently working on completing my Software Engineering degree
 - 🌱 I’m currently learning Java & Python
-- 😄 Pronouns: She/Her
-
+- 🤔 I’m looking for help with finding a 10/12 month Industrial Placement
 - 📫 Check out my [LinkedIn](www.linkedin.com/in/chloé-greenstreet)
 
 <!--
